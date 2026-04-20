@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vyshnavlal">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zeninit0.zeninit0" alt="visitor badge">
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Hello;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hola;Bonjour;Ciao;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94;Merhaba" alt="Typing SVG" /></a>
@@ -33,14 +33,10 @@
   <!-- Streak Stats -->
   <!--  <img src="https://streak-stats.demolab.com?user=zeninit0&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /> -->
 
-  <img src="https://streak-stats.demolab.com?user=zeninit0&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
-
   <!-- Top Languages -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeninit0&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <!-- <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeninit0&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /> -->
 
 </div>
-
-
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=zeninit0&theme=catppuccin&no-frame=true&no-bg=false&margin-w=4" alt="vyshnavlal" /></a></p>
